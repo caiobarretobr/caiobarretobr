@@ -1,4 +1,4 @@
-# 👋 Hello, my name is Caio Barreto!
+👋 Hello, my name is Caio Barreto!
 
 I'm a junior software developer<br>
 interested in JavaScript technologies
