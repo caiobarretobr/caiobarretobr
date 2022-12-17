@@ -1,6 +1,6 @@
 # 👋 Hello, my name is Caio Barreto!
 
-I'm a beginner-level software developer<br>
+I'm a junior software developer<br>
 interested in JavaScript technologies
 
 ## 🌎 Find me on:
