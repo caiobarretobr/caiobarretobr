@@ -9,7 +9,7 @@ I'm a junior software developer<br>
 
 🇧🇷 Born in Recife, Brasil<br>
 |<br>
-|<br>
-###Terraform tutorials:
+|
+### Terraform tutorials:
 - [How to create S3 bucket](https://github.com/caiobarretobr/Terraform_Aws_S3_bucket)
 - [High disponibility aws architecture(soon)](https://github.com/caiobarretobr/Terraform_Aws_architecture)
