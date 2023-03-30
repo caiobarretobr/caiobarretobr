@@ -8,7 +8,3 @@ I'm a junior software developer<br>
 [Instagram](https://www.instagram.com/caioobarreto1/)<br>
 
 🇧🇷 Born in Recife, Brasil<br>
-
-### Terraform tutorials:
-- [How to create S3 bucket](https://github.com/caiobarretobr/Terraform_Aws_S3_bucket)
-- [High disponibility aws architecture(soon)](https://github.com/caiobarretobr/Terraform_Aws_architecture)
