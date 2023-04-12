@@ -1,4 +1,4 @@
-👋 Welcome to my profile!
+Welcome to my profile!
 ----------------------------------------
 I'm a junior software developer<br>
 
