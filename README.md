@@ -18,7 +18,7 @@ Soft skills:
 • Craft a compelling story to communicate insights to stakeholders<br>
 
 My Data Analytics project:
-.[Cyclistic Data Analysis project](https://github.com/caiobarretobr/Cyclistic_data_analysis)<br>
+[Cyclistic case study](https://github.com/caiobarretobr/Cyclistic_data_analysis)<br>
 
 🌎 Find me on:
 
