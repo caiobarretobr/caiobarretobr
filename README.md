@@ -11,9 +11,6 @@ Soft skills:
 - Communication
 - Creativity
 
-My Data Analytics project:
-[Cyclistic case study](https://github.com/caiobarretobr/Cyclistic_data_analysis)<br>
-
 🌎 Find me on:
 
 [Linkedin](https://www.linkedin.com/in/caio-barreto-064155224/)<br>
